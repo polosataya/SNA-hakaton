@@ -3,7 +3,7 @@
 
 Условия для [первого тура](https://mlbootcamp.ru/round/19/sandbox/)
 
-Статья по [итогам](https://habr.com/ru/company/odnoklassniki/blog/448140/)
+Статья организаторов по [итогам](https://habr.com/ru/company/odnoklassniki/blog/448140/)  
 [Презентация команды](https://cloud.mail.ru/public/A9cF/bVSWJCJgt/Presentations/PONGA.pdf)
 
 Финальное решение состояло из двух моделей. 
